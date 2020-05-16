@@ -1,0 +1,17 @@
+tensorflow2.0的学习者你好～这个项目是我在本科时期的作品。
+整个过程实现了模型训练（tensorboard_test)，自己的手写体数字识别
+在这个过程中查阅了很多的文档和博客。
+非常推荐龙龙老师的tensorflow2.0教程：
+https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book
+某国外在线的MNIST手写体识别网站：
+http://scs.ryerson.ca/~aharley/vis/conv/
+（我的手写体照片是从这里保存的，也可以用PS制作）
+以下是各个文件包含的内容：
+tensorflow文件中包含所有源程序和mnist训练集中图片的可视化
+201911**文件中包含两次训练过程的tensorboard参数
+weights文件夹中包含模型参数
+models中包含模型和手写体图片
+
+祝你一切顺利，欢迎与我联系！
+邮箱18801328722@163.com
+
